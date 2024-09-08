@@ -1,0 +1,2 @@
+streamlit
+#install this in terminal !pip install "crawl4ai @ git+https://github.com/unclecode/crawl4ai.git
